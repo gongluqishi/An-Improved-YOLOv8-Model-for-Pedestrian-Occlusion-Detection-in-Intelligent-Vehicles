@@ -1,0 +1,7 @@
+# Install a CUDA-enabled PyTorch/torchvision pair separately when GPU training
+# or the compiled InternImage DCNv3 operator is required.
+-e .
+pytest>=7.0
+PyYAML>=5.3.1
+tqdm>=4.64.0
+pandas>=2.0
