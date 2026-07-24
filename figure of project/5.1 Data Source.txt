@@ -1,0 +1,1 @@
+Performance of the three algorithms is evaluated using the traffic-domain computer vision database provided by Tsinghua University and Tencent. The database URL is: http://cg.cs.tsinghua.edu.cn/traffic-sign/
